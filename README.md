@@ -1,6 +1,7 @@
 # CityGuide
 
-This app gives you a link to the Art Institute of Chicago and Magnificent Miles websites as well as different images of these.
+This app gives you a link to the Art Institute of Chicago and Magnificent Miles websites as well as different images of
+Wills Tower, Navy Pier, and Water Tower.
 
 API: compatible with KitKat and newer Operating Systems
 
